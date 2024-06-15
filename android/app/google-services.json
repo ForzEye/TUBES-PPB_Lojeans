@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484573932621",
+    "project_id": "as-lojeans",
+    "storage_bucket": "as-lojeans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484573932621:android:1691099dd6200ea79a0004",
+        "android_client_info": {
+          "package_name": "com.example.lojeans_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVrrjTEvv7leMarybx_zTcbnjTv8gd58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
